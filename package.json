@@ -1,0 +1,22 @@
+{
+  "name": "javascript-calculator",
+  "version": "1.0.0",
+  "description": "Javascript-calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TommyNguyen95/Javascript-calculator.git"
+  },
+  "author": "Tommy Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TommyNguyen95/Javascript-calculator/issues"
+  },
+  "homepage": "https://github.com/TommyNguyen95/Javascript-calculator#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
